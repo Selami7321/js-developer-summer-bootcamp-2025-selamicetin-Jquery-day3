@@ -142,13 +142,3 @@ Proje, ön uç geliştirme becerilerini sergilemek ve modern web animasyon tekni
 3. "Kartları Canlandır" ve "Salla Efekti" butonlarıyla animasyonları deneyin
 
 Proje  Apache lisansı altında açık kaynak olarak sunulmuştur. Katkılarınızı bekliyoruz!
-📷 Ekran Görüntüsü Önerisi
-Projeniz için aşağıdaki özellikleri içeren bir ekran görüntüsü oluşturabilirsiniz:
-
-Ana ekran profil kartlarıyla
-
-Bir profil modalı açıkken
-
-Mobil görünümde slider
-
-Animasyon efektlerinin görüldüğü anlar
